@@ -19,7 +19,7 @@ Github https://github.com/rahul-singh-au9
 
 
 Languages and Tools:                                                                                                          
-Visual Studio Code| HTML5 |CSS3 | Sass| JavaScript| React| GatsbyGraphQL |Node.js |Deno|SQLMySQL |MongoDB |Git| GitHub| Terminal
+Visual Studio Code|            HTML5 |               CSS3             | Sass           | JavaScript            | React             | GatsbyGraphQL           |Node.js      |Deno       |SQLMySQL                  |MongoDB           |Git    | GitHub|   Terminal
 
 
 
