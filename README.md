@@ -9,8 +9,8 @@ I'm a Student, Developer, and Teacher!!
 👯 I’m looking to collaborate with other content creators                                              
 🥅 2020 Goals: Contribute more to Open Source projects                                                 
 ⚡ Fun fact: I love to code and Music, play guitar /                                                        
-Spotify Playing 🎧
-rahul singh Spotify Playing
+Spotify Playing 🎧                                                                                                                   
+rahul singh Spotify Playing                                                                                                       
 
 Connect with me:
 Github https://github.com/rahul-singh-au9   | Linkedin https://www.linkedin.com/in/rahul-singh-7b48901b1/ | Instagram | Twitter
