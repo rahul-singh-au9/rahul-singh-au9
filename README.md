@@ -12,8 +12,10 @@ I'm a Student, Developer, and Teacher!!
 Spotify Playing 🎧                                                                                                                   
 rahul singh Spotify Playing                                                                                                       
 
-Connect with me:
-Github https://github.com/rahul-singh-au9   | Linkedin https://www.linkedin.com/in/rahul-singh-7b48901b1/ | Instagram | Twitter
+Connect with me:                                                                                                                  
+Github https://github.com/rahul-singh-au9                                                      
+| Linkedin https://www.linkedin.com/in/rahul-singh-7b48901b1/                                                                                     
+| Instagram | Twitter
 
 
 Languages and Tools:
