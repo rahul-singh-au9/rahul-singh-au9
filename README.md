@@ -55,6 +55,11 @@ func GetBio() Bio {
   <a href="https://stackoverflow.com/users/story/10734716">
     <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="Angel Santiago Jaime Zavala's Stack Overflow Profile" height="30" width="30">
   </a>
+  
+  <a href="https://stackshare.io/rahulsg1508">
+    <img src="https://cdn.worldvectorlogo.com/logos/stackshare.svg" alt="Angel Santiago Jaime Zavala's StackShare Profile" height="30" width="30">
+  </a>
+
 </p>
 
 <h2 align="center">My stack :man_technologist:</h2>
