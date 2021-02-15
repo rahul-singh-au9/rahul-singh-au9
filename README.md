@@ -1,28 +1,3 @@
-
-Hi there, I'm Rahul singh - aka a beginner developer 👋
-                                                      
-                                                             
-                                                                
-I'm a Student, Developer, and Teacher!!                                                     
-🔭 I am just creating simple projects to learn coding !!                                                 
-🌱 I’m currently learning everything 🤣                                                                
-👯 I’m looking to collaborate with other content creators                                              
-🥅 2021 Goals: Contribute more to Open Source projects                                                 
-⚡ Fun fact: I love to code and Music, play guitar /                                                        
-Spotify Playing 🎧                                                                                                                   
-rahul singh Spotify Playing                                                                                                                                                     
-
-➡️Latest Projects
-space invader game using python and pygame (2020)
-a terminal based project to similar to swiggy app to order food and on-board restaurants (2020)
-
-➡️more Projects...
-
-📕 Latest Blog Posts
-i am going to start posting some blogs related to coding to help the begginers codders
-
-
-
 # Rahul Singh
 
 <h2 align="center">About me</h2>
@@ -64,12 +39,12 @@ func GetBio() Bio {
 <h2 align="center">You can reach me at :alien:</h2>
 
 <p align="center">
-  <a href="https://dev.to/anhello">
-    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Angel Santiago Jaime Zavala's DEV Profile" height="30" width="30">
+  <a href="https://www.rahulsg.tech/">
+    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Profile" height="30" width="30">
   </a>
 
-  <a href="https://www.linkedin.com/in/angel-santiago-jaime-zavala-601813199/">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Angel Santiago Jaime Zavala's LinkedIn Profile" height="30" width="30">
+  <a href="https://www.linkedin.com/in/rahul-singh-7b48901b1/">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn Profile" height="30" width="30">
   </a>
 
   <a href="https://stackoverflow.com/users/2946413/angel-santiago-jaime-zavala?tab=profile">
@@ -92,9 +67,6 @@ func GetBio() Bio {
     <img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="Angel Santiago Jaime Zavala's Medium Profile" height="30" width="30">
   </a>
   
-  <a href="https://www.youtube.com/channel/UCPUwB4x7_6Dbvwsnfbe1yiQ">
-    <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Angel Santiago Jaime Zavala's YouTube Channel" height="30" width="30">
-  </a>
 </p>
 
 <h2 align="center">My stack :man_technologist:</h2>
