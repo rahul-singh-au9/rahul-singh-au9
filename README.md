@@ -23,7 +23,7 @@ i am going to start posting some blogs related to coding to help the begginers c
 
 
 
-# Angel Jaime
+# Rahul Singh
 
 <h2 align="center">About me</h2>
 
@@ -110,7 +110,7 @@ func GetBio() Bio {
 
 <h4 align="center">Visitor's count :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{AnhellO}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{rahul-singh-au9}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
 
 <h4 align="center">Top langs :tongue:</h4>
 
@@ -118,17 +118,11 @@ func GetBio() Bio {
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AnhellO&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=rahul-singh-au9&show_icons=true&theme=synthwave" alt="rahul-singh-au9 :: Profile Stats" /></p>
 
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
 
 
 ---
 
-⭐️ From [@AnhellO](https://github.com/AnhellO)
-
-➡️ more blog posts...
-
-
-⚡ Recent GitHub Activity
-⚡ GitHub Stats
+⭐️ From [@rahul-singh-au9](https://github.com/rahul-singh-au9)
