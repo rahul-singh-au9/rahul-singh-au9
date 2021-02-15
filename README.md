@@ -45,7 +45,7 @@ func GetBio() Bio {
 
 <p align="center">
   <a href="https://www.rahulsg.tech/">
-    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Profile" height="30" width="30">
+    <img src="https://i.ibb.co/mR1TTRj/favicon-32x32.png" alt="Profile" height="30" width="30">
   </a>
 
   <a href="https://www.linkedin.com/in/rahul-singh-7b48901b1/">
