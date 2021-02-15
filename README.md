@@ -10,19 +10,7 @@ I'm a Student, Developer, and Teacher!!
 🥅 2021 Goals: Contribute more to Open Source projects                                                 
 ⚡ Fun fact: I love to code and Music, play guitar /                                                        
 Spotify Playing 🎧                                                                                                                   
-rahul singh Spotify Playing                                                                                                       
-
-Connect with me: 
-|website https://www.rahulsg.tech/
-|Github https://github.com/rahul-singh-au9                                                      
-| Linkedin https://www.linkedin.com/in/rahul-singh-7b48901b1/  
-| Instagram | Twitter
-
-
-Languages and Tools:                                                                                                          
-Visual Studio Code|            HTML5 |               CSS3             | Sass           | JavaScript            | React             | GatsbyGraphQL           |Node.js      |Deno       |SQLMySQL                  |MongoDB           |Git    | GitHub|   Terminal
-
-
+rahul singh Spotify Playing                                                                                                                                                     
 
 ➡️Latest Projects
 space invader game using python and pygame (2020)
@@ -39,7 +27,7 @@ i am going to start posting some blogs related to coding to help the begginers c
 
 <h2 align="center">About me</h2>
 
-```golang
+```Javascript
 package main
 
 import (
@@ -59,10 +47,16 @@ func GetBio() Bio {
 		"- ⚡ Quick bio:":                    "A kind of metalHead-melomaniac-gearAddict-amateurMusician-traveler-foodLover-gamer-coder-programmer-catLover-sportsAficionado hybrid",
 		"- 🔭 I’m currently working on":      "Tredicom as a Senior Software Developer --- UAdeC as a Part Time Teacher",
 		"- 🌱 I’m currently learning":        "Golang, MongoDB, RabbitMQ, K8s, GCP (Tech stack from my company) --- Sharpening my Front End Skills for the MERN stack (Personal goal)",
-		"- 👯 I’m looking to collaborate on": "Python, Golang and Docker related projects",
+		"- 👯 I’m looking to collaborate on": "Python, React and Javascript Node related projects",
+		
 		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
-		"- 💬 Ask me about":                  "Python, PHP, Laravel, SQL, Software Design & Architecture, Web-Dev and SEO",
-		"- 📫 How to reach me:":              "https://github.com/AnhellO#you-can-reach-me-at-alien",
+		
+		"- 💬 Ask me about":                   Visual Studio Code | HTML5 | CSS3 | Sass | JavaScript | React | Gatsby | GraphQL |Node.js |  Express.Js | |Deno |SQLMySQL 							|MongoDB |Mongoose | Git  | GitHub| Terminal
+		
+		"- 📫 How to reach me:":               |website https://www.rahulsg.tech/
+							|Github https://github.com/rahul-singh-au9                                                      
+							| Linkedin https://www.linkedin.com/in/rahul-singh-7b48901b1/  
+							| Instagram | Twitter
 	}
 }
 ```
