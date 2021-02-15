@@ -26,7 +26,7 @@ func GetBio() Bio {
 		
 		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
 		
-		"- 💬 Ask me about":                   Visual Studio Code | HTML5 | CSS3 | Sass | JavaScript | React | Gatsby | GraphQL |Node.js |  Express.Js | |Deno |SQLMySQL 							|MongoDB |Mongoose | Git  | GitHub| Terminal
+		"- 💬 Ask me about":               Visual Studio Code | HTML5 | CSS3 | Sass | JavaScript | React | Gatsby | GraphQL |Node.js |  Express.Js | |Deno |SQLMySQL|MongoDB |Mongoose | Git  | GitHub| Terminal
 		
 		"- 📫 How to reach me:":               |website https://www.rahulsg.tech/
 							|Github https://github.com/rahul-singh-au9                                                      
