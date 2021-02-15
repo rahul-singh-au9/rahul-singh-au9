@@ -57,7 +57,7 @@ func GetBio() Bio {
   </a>
   
   <a href="https://stackshare.io/rahulsg1508">
-    <img src="https://cdn.worldvectorlogo.com/logos/stackshare.svg" alt="Angel Santiago Jaime Zavala's StackShare Profile" height="30" width="30">
+    <img src="https://cdn.worldvectorlogo.com/logos/stackshare.svg" alt="StackShare Profile" height="30" width="30">
   </a>
 
 </p>
@@ -67,7 +67,7 @@ func GetBio() Bio {
 <p align="center">Tools that I use on a daily basis, or that I've used or worked (either much or a bit) with on the past</p>
 <p align="center">
   <a href="https://stackshare.io/rahulsg1508">
-    <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="AnhellO :: StackShare" />
+    <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="rahul :: StackShare" />
   </a>
 </p>
 
@@ -75,11 +75,11 @@ func GetBio() Bio {
 
 <h4 align="center">Visitor's count :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{rahul-singh-au9}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{rahul-singh-au9}/count.svg" alt="rahul :: Visitor's Count" /></p>
 
 <h4 align="center">Top langs :tongue:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-singh-au9&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-singh-au9&langs_count=10&theme=tokyonight&layout=compact" alt="rahul :: Top Langs" /></p>
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
