@@ -19,14 +19,19 @@ func main() {
 
 func GetBio() Bio {
 	return Bio{
-		"- ⚡ Quick bio:":                    "A kind of metalHead-melomaniac-gearAddict-amateurMusician-traveler-foodLover-gamer-coder-programmer-catLover-sportsAficionado hybrid",
+		"- ⚡ Quick bio:":                    "A kind of metalHead-melomaniac-gearAddict-amateurMusician-traveler-foodLover-gamer-
+							coder-programmer-catLover-sportsAficionado hybrid",
+							
 		"- 🔭 I’m currently working on":      "Tredicom as a Senior Software Developer --- UAdeC as a Part Time Teacher",
-		"- 🌱 I’m currently learning":        "Golang, MongoDB, RabbitMQ, K8s, GCP (Tech stack from my company) --- Sharpening my Front End Skills for the MERN stack (Personal goal)",
-		"- 👯 I’m looking to collaborate on": "Python, React and Javascript Node related projects",
+		"- 🌱 I’m currently learning":        "Golang, MongoDB, RabbitMQ, K8s, GCP (Tech stack from my company) --- 
+							Sharpening my Front End Skills for the MERN stack (Personal goal)",
+							
+		"- 👯 I’m looking to collaborate on":  "Python, React and Javascript Node related projects",
 		
 		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
 		
-		"- 💬 Ask me about":               Visual Studio Code | HTML5 | CSS3 | Sass | JavaScript | React | Gatsby | GraphQL |Node.js |  Express.Js | |Deno |SQLMySQL|MongoDB |Mongoose | Git  | GitHub| Terminal
+		"- 💬 Ask me about":                  Visual Studio Code | HTML5 | CSS3 | Sass | JavaScript | React | Gatsby| GraphQL |
+				                       Node.js |  Express.Js | |Deno |SQLMySQL|MongoDB |Mongoose | Git  | GitHub| Terminal
 		
 		"- 📫 How to reach me:":               |website https://www.rahulsg.tech/
 							|Github https://github.com/rahul-singh-au9                                                      
