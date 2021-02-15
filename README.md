@@ -22,7 +22,7 @@ func GetBio() Bio {
 		"- ⚡ Quick bio:":                    "A kind of metalHead-melomaniac-gearAddict-amateurMusician-traveler-foodLover-gamer-
 							coder-programmer-catLover-sportsAficionado hybrid",
 							
-		"- 🔭 I’m currently working on":      "Tredicom as a Senior Software Developer --- UAdeC as a Part Time Teacher",
+		"- 🔭 I’m currently working on":      "TMERN STACK Developer --- and  a Part Time Teacher and Mentor",
 		"- 🌱 I’m currently learning":        "Golang, MongoDB, Next.Js, gastsby,  (Tech stack) --- 
 							Sharpening my Front End Skills for the MERN stack (Personal goal)",
 							
