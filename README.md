@@ -66,9 +66,9 @@ func GetBio() Bio {
 
 </p>
 
-<h2 align="center">My stack :man_technologist:</h2>
+<h2 align="center">My stack : man_technologist: </h2>
 
-<p align="center">Tools that I use on a daily basis, or that I've used or worked (either much or a bit) with on the past</p>
+<p align="center"> Tools that I use on a daily basis, or that I've used or worked (either much or a bit) with on the past </p>
 <p align="center">
   <a href="https://stackshare.io/rahulsg1508">
     <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="rahul :: StackShare" />
