@@ -32,8 +32,9 @@ func GetBio() Bio {
 		
 		"- 🤔 2021 goals":                    "Looking forward to contribute more in open resources",
 		
-		"- 💬 Ask me about":                  Visual Studio Code | HTML5 | CSS3 | Sass | JavaScript | React | Gatsby| GraphQL |
-				                       Node.js |  Express.Js | |Deno |SQLMySQL|MongoDB |Mongoose | Git  | GitHub| Terminal
+		"- 💬 Ask me about":                  Visual Studio Code | HTML5 | CSS3 | Sass | JavaScript 
+						       | React | Gatsby| GraphQL | Node.js | Express.Js | Deno |
+						       SQL MySQL | MongoDB | Mongoose | Git  | GitHub | Terminal
 		
 		"- 📫 How to reach me:":               |website https://www.rahulsg.tech/
 							|Github https://github.com/rahul-singh-au9                                                      
