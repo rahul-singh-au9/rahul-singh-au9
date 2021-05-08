@@ -23,17 +23,17 @@ func GetBio() Bio {
 							coder-programmer-catLover-sportsAficionado hybrid",
 							
 		"- 🔭 I’m currently working on":      "TMERN STACK Developer --- and  a Part Time Teacher and Mentor",
-		"- 🌱 I’m currently learning":        "Golang, MongoDB, Next.Js, gastsby,  (Tech stack) --- 
+		"- 🌱 I’m currently learning":        " Next.Js, gastsby, Deno  (Tech stack) --- 
 							Sharpening my Front End Skills for the MERN stack (Personal goal)",
 							
-		"- 👯 I’m looking to collaborate on":  "Python, React and Javascript Node related projects",
+		"- 👯 I’m looking to collaborate on":  "MERN, React and Javascript Node related projects",
 		
 		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
 		
 		"- 🤔 2021 goals":                    "Looking forward to contribute more in open resources",
 		
 		"- 💬 Ask me about":                  Visual Studio Code | HTML5 | CSS3 | Sass | JavaScript 
-						       | React | Gatsby| GraphQL | Node.js | Express.Js | Deno |
+						       | React | Gatsby| GraphQL | Node.js | Express.Js |
 						       SQL MySQL | MongoDB | Mongoose | Git  | GitHub | Terminal
 		
 		"- 📫 How to reach me:":               |website https://www.rahulsg.tech/
