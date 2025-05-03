@@ -3,46 +3,36 @@
 <h2 align="center">About me</h2>
 
 ```Javascript
-package main
+const bio = {
+  "- ⚡ Quick bio:": 
+    "Metalhead 🎸 | Amateur Musician 🎶 | Traveler 🌍 | Foodie 🍜 | Gamer 🎮 | Coder 💻 | Dog Lover 🐱 | Sports Fan 🏏",
 
-import (
-	"fmt"
-)
+  "- 🔭 I’m currently working on:": 
+    "MERN Stack Development at Tekion & Mentoring aspiring developers",
 
-type Bio map[string]string
+  "- 🌱 I’m currently learning:": 
+    "Generative AI, LLMs, RAG, LangChain, Hugging Face, PyTorch | Sharpening frontend skills (Next.js, Gatsby, Deno)",
 
-func main() {
-	for k, v := range GetBio() {
-		fmt.Printf("%+v: %+v\n", k, v)
-	}
-}
+  "- 👯 I’m looking to collaborate on:": 
+    "React, Node.js, AI/ML, and full-stack JS projects",
 
-func GetBio() Bio {
-	return Bio{
-		"- ⚡ Quick bio:":                    "A kind of metalHead-melomaniac-gearAddict-amateurMusician-traveler-foodLover-gamer-
-							coder-programmer-catLover-sportsAficionado hybrid",
-							
-		"- 🔭 I’m currently working on":      "TMERN STACK Developer --- and  a Part Time Teacher and Mentor",
-		"- 🌱 I’m currently learning":        " Next.Js, gastsby, Deno  (Tech stack) --- 
-							Sharpening my Front End Skills for the MERN stack (Personal goal)",
-							
-		"- 👯 I’m looking to collaborate on":  "MERN, React and Javascript Node related projects",
-		
-		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
-		
-		"- 🤔 2021 goals":                    "Looking forward to contribute more in open resources",
-		
-		"- 💬 Ask me about":                  Visual Studio Code | HTML5 | CSS3 | Sass | JavaScript 
-						       | React | Gatsby| GraphQL | Node.js | Express.Js |
-						       SQL MySQL | MongoDB | Mongoose | Git  | GitHub | Terminal
-		
-		"- 📫 How to reach me:":               |website https://www.rahulsg.tech/
-							|Github https://github.com/rahul-singh-au9                                                      
-							| Linkedin https://www.linkedin.com/in/rahul-singh-7b48901b1/
-							|rahulsg1508@gmail.com
-							| Instagram | Twitter
-	}
-}
+  "- 🤔 I’m looking for help with:": 
+    "Applying AI techniques in real-world projects and building useful AI tools",
+
+  "- 🎯 2025 goals:": 
+    "Break into the AI Engineering field | Contribute more to open-source AI projects",
+
+  "- 💬 Ask me about:": 
+    "React, Node.js, Express, MongoDB, Next.js, LLMs, LangChain, Python, PyTorch, Git, VSCode, REST APIs",
+
+  "- 📫 How to reach me:": `
+    🌐 Website: https://rahulsg.netlify.app/
+    💻 GitHub: https://github.com/rahul-singh-au9
+    🔗 LinkedIn: https://www.linkedin.com/in/rahul-singh-1710a822a/
+    📧 Email: rahulsg1508@gmail.com
+    📷 Instagram | 🐦 Twitter
+  `
+};
 ```
 
 <h2 align="center">You can reach me at :alien:</h2>
