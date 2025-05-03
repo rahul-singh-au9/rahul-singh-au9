@@ -38,11 +38,11 @@ const bio = {
 <h2 align="center">You can reach me at :alien:</h2>
 
 <p align="center">
-  <a href="https://www.rahulsg.tech/">
+  <a href="https://rahulsg.netlify.app/">
     <img src="https://i.ibb.co/mR1TTRj/favicon-32x32.png" alt="Profile" height="30" width="30">
   </a>
 
-  <a href="https://www.linkedin.com/in/rahul-singh-7b48901b1/">
+  <a href="https://www.linkedin.com/in/rahul-singh-1710a822a/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn Profile" height="30" width="30">
   </a>
 
