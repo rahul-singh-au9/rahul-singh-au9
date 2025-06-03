@@ -42,7 +42,7 @@ const bio = {
     <img src="https://i.ibb.co/mR1TTRj/favicon-32x32.png" alt="Profile" height="30" width="30">
   </a>
 
-  <a href="https://www.linkedin.com/in/rahul-singh-1710a822a/">
+  <a href="https://www.linkedin.com/in/rahulsg1/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn Profile" height="30" width="30">
   </a>
 
