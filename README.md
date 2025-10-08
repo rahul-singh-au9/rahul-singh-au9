@@ -9,9 +9,7 @@ const bio = {
 
   "- 🔭 I’m currently working on:": 
     "MERN Stack Development at Tekion & Mentoring aspiring developers",
-
-  "- 🌱 I’m currently learning:": 
-    "Generative AI, LLMs, RAG, LangChain, Hugging Face, PyTorch | Sharpening frontend skills (Next.js, Gatsby, Deno)",
+    "Generative AI, LLMs, RAG, LangChain, Hugging Face, PyTorch | Sharpening frontend skills (Next.js, Gatsby, Deno)"
 
   "- 👯 I’m looking to collaborate on:": 
     "React, Node.js, AI/ML, and full-stack JS projects",
