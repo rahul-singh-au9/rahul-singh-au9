@@ -26,9 +26,7 @@ const bio = {
     "React, Node.js, Express, MongoDB, Next.js, LLMs, LangChain, Python, PyTorch, Git, VSCode, REST APIs",
 
   "- 📫 How to reach me:": `
-    🌐 Website: https://rahulsg.netlify.app/
     💻 GitHub: https://github.com/rahul-singh-au9
-    📧 Email: rahulsg1508@gmail.com
   `
 };
 ```
