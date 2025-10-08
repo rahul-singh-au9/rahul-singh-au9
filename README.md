@@ -34,9 +34,6 @@ const bio = {
 <h2 align="center">You can reach me at :alien:</h2>
 
 <p align="center">
-  <a href="https://rahulsg.netlify.app/">
-    <img src="https://i.ibb.co/mR1TTRj/favicon-32x32.png" alt="Profile" height="30" width="30">
-  </a>
 
   <a href="https://stackoverflow.com/users/story/10734716">
     <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="Angel Santiago Jaime Zavala's Stack Overflow Profile" height="30" width="30">
