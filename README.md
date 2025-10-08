@@ -28,9 +28,7 @@ const bio = {
   "- 📫 How to reach me:": `
     🌐 Website: https://rahulsg.netlify.app/
     💻 GitHub: https://github.com/rahul-singh-au9
-    🔗 LinkedIn: https://www.linkedin.com/in/rahul-singh-1710a822a/
     📧 Email: rahulsg1508@gmail.com
-    📷 Instagram | 🐦 Twitter
   `
 };
 ```
@@ -40,10 +38,6 @@ const bio = {
 <p align="center">
   <a href="https://rahulsg.netlify.app/">
     <img src="https://i.ibb.co/mR1TTRj/favicon-32x32.png" alt="Profile" height="30" width="30">
-  </a>
-
-  <a href="https://www.linkedin.com/in/rahulsg1/">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn Profile" height="30" width="30">
   </a>
 
   <a href="https://stackoverflow.com/users/story/10734716">
