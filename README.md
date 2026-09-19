@@ -1,74 +1,59 @@
 # Rahul Singh
 
-<h2 align="center">About me</h2>
+**Full-stack engineer | API integration | Applied AI**
 
-```Javascript
-const bio = {
-  "- ⚡ Quick bio:": 
-    "Metalhead 🎸 | Amateur Musician 🎶 | Traveler 🌍 | Foodie 🍜 | Gamer 🎮 | Coder 💻 | Dog Lover 🐱 | Sports Fan 🏏",
+I build customer-facing products and turn business requirements into working software, from scoping and integration through testing and rollout.
 
-  "- 🔭 I’m currently working on:": 
-    "MERN Stack Development at Tekion & Mentoring aspiring developers",
-    "Generative AI, LLMs, RAG, LangChain, Hugging Face, PyTorch | Sharpening frontend skills (Next.js, Gatsby, Deno)"
+Currently at **Iksha Labs**, working on insurance workflows, analytics, and backend integrations. Previously at **Tekion, Scrut Automation, and TutorBin**, building products across automotive CRM, compliance, and education.
 
-  "- 👯 I’m looking to collaborate on:": 
-    "React, Node.js, AI/ML, and full-stack JS projects",
+[LinkedIn](https://www.linkedin.com/in/rahulsg1/) · [Selected projects](#selected-projects)
 
-  "- 🤔 I’m looking for help with:": 
-    "Applying AI techniques in real-world projects and building useful AI tools",
+## Selected projects
 
-  "- 🎯 2025 goals:": 
-    "Break into the AI Engineering field | Contribute more to open-source AI projects",
+### Integration Replay Lab
 
-  "- 💬 Ask me about:": 
-    "React, Node.js, Express, MongoDB, Next.js, LLMs, LangChain, Python, PyTorch, Git, VSCode, REST APIs",
+An integration testing workbench for exploring duplicate deliveries, out-of-order updates, lost acknowledgements, and retries. Compare naive processing with idempotent, version-aware handling and inspect the evidence for each outcome.
 
-  "- 📫 How to reach me:": `
-    💻 GitHub: https://github.com/rahul-singh-au9
-  `
-};
-```
+- Shared TypeScript replay engine across the browser, API, and CLI.
+- Server-validated saved runs, D1 persistence, JSON import/export, and automated tests.
+- Simulated delivery scenarios; it does not send requests to live customer systems.
 
-<h2 align="center">You can reach me at :alien:</h2>
+**React · TypeScript · Cloudflare Workers · D1 / SQLite**
 
-<p align="center">
+[Live demo](https://integration-replay-lab.rahulsg1508.workers.dev) · [Code](https://github.com/rahul-singh-au9/integration-replay-lab) · [Verification evidence](https://github.com/rahul-singh-au9/integration-replay-lab/blob/main/docs/VERIFICATION.md)
 
-  <a href="https://stackoverflow.com/users/story/10734716">
-    <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="Angel Santiago Jaime Zavala's Stack Overflow Profile" height="30" width="30">
-  </a>
-  
-  <a href="https://stackshare.io/rahulsg1508">
-    <img src="https://cdn.worldvectorlogo.com/logos/stackshare.svg" alt="StackShare Profile" height="30" width="30">
-  </a>
+### Agent Control Lab
 
-</p>
+An AI safety audit workbench for recorded action proposals. Compare static scope checks with stateful authorization that accounts for revoked or expired approvals, prior use, and changed content.
 
-<h2 align="center">My stack : man_technologist: </h2>
+- Evidence-linked allow, block, review, and unsupported decisions.
+- Trace validation, reproducible exports, D1 report storage, and automated tests.
+- Audits supplied traces; it does not execute live agents or certify their safety.
 
-<p align="center"> Tools that I use on a daily basis, or that I've used or worked (either much or a bit) with on the past </p>
-<p align="center">
-  <a href="https://stackshare.io/rahulsg1508">
-    <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="rahul :: StackShare" />
-  </a>
-</p>
+**React · TypeScript · Cloudflare Workers · D1 / SQLite**
 
-<h2 align="center">Github stats :bar_chart:</h2>
+[Live demo](https://agent-control-lab.rahulsg1508.workers.dev) · [Code](https://github.com/rahul-singh-au9/agent-control-lab) · [Verification evidence](https://github.com/rahul-singh-au9/agent-control-lab/blob/main/docs/VERIFICATION.md)
 
-<h4 align="center">Visitor's count :eyes:</h4>
+### AI Technical Tutor
 
-<p align="center"><img src="https://profile-counter.glitch.me/{rahul-singh-au9}/count.svg" alt="rahul :: Visitor's Count" /></p>
+A retrieval-augmented tutor for technical questions about AI. Connects a prebuilt Chroma knowledge store to a retrieval tool, conversation memory, and streamed responses in a Gradio interface.
 
-<h4 align="center">Top langs :tongue:</h4>
+**Python · LlamaIndex · OpenAI APIs · Chroma · Gradio**
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-singh-au9&langs_count=10&theme=tokyonight&layout=compact" alt="rahul :: Top Langs" /></p>
+[Hugging Face demo](https://huggingface.co/spaces/rahulsg1/AI_Tutor) · [Code](https://github.com/rahul-singh-au9/AI_Tutor)
 
-<h4 align="center">Profile stats :musical_keyboard:</h4>
+## Engineering toolkit
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=rahul-singh-au9&show_icons=true&theme=synthwave" alt="rahul-singh-au9 :: Profile Stats" /></p>
+| Area | Technologies and practices |
+| --- | --- |
+| Frontend | React, TypeScript, JavaScript, Next.js, Vue, Redux |
+| Backend and integration | Node.js, Ruby on Rails, Go, REST APIs, WebSockets |
+| Data | PostgreSQL, Redis, MongoDB, SQLite, query optimization, caching |
+| AI applications | Python, RAG, LlamaIndex, OpenAI APIs, Chroma |
+| Testing and delivery | Jest, Vitest, Playwright, Git, CI/CD, technical documentation |
 
-<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
+## What I enjoy working on
 
+Customer-facing engineering, reliable integrations, and useful AI applications. I'm interested in **Forward Deployed Engineer and full-stack roles** where I can work closely with users and own delivery end to end.
 
----
-
-⭐️ From [@rahul-singh-au9](https://github.com/rahul-singh-au9)
+Outside work: music, travel, and gaming.
